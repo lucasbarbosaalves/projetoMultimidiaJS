@@ -6,7 +6,7 @@ Realizei uma pequena multimídia que é possível interagir clicando nos botões
 
 ## Imagem
 
-![App Screenshot]<a href="https://ibb.co/W6KD2sd"><img src="https://i.ibb.co/2yK8k5L/Screenshot-4.png" alt="Screenshot-4" border="0" /></a>
+<a href="https://ibb.co/W6KD2sd"><img src="https://i.ibb.co/2yK8k5L/Screenshot-4.png" alt="Screenshot-4" border="0" /></a>
 
 ## Tecnologias utilizadas
 
